@@ -1,3 +1,3 @@
 # scrimshaw
-A collection of grasshopper definitions (scripts) either single use or often used
-Periodically updated
+A collection of grasshopper definitions (scripts) generally used for Architectural applications
+A WIP repository, with more to come
