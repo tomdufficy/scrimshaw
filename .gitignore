@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# OS cruft (safe on all platforms)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Rhino temp workspace (never useful to version)
+Rhino__Temp*/
