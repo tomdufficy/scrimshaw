@@ -17,7 +17,7 @@ This folder contains Python scripts for Rhino and Grasshopper.
 *(demo gif coming soon)*
 
 ### randomreduce demo
-*(demo gif coming soon)*
+![randomreduce demo](../../assets/randomreduce.gif)
 
 ### bottomcurvepiping demo
 *(demo gif coming soon)*
