@@ -18,6 +18,9 @@ Scripts are stored in the `scripts/` subfolder:
 - **roadrampsimple.py** — Creates a simple uniformly sloped road surface from a left-hand base curve, with preview options, and can also generate a vertical-offset solid volume for boolean operations.  
   [▶ Demo](#roadrampsimple-demo)
 
+  - **scatterblocks.py** — Scatters a block instance or geometry across a surface or mesh with options for density, random rotation, scaling, and alignment to surface/mesh normals.  
+  [▶ Demo](#scatterblocks-demo)
+
 ---
 
 ## Demos
@@ -33,3 +36,6 @@ Scripts are stored in the `scripts/` subfolder:
 
 ### roadrampsimple demo
 ![roadrampsimple demo](../assets/roadrampsimple.gif)
+
+### scatterblocks demo
+![scatterblocks demo](../assets/scatterblocks.gif)
