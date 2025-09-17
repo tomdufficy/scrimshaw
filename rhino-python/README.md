@@ -18,8 +18,11 @@ Scripts are stored in the `scripts/` subfolder:
 - **roadrampsimple.py** — Creates a simple uniformly sloped road surface from a left-hand base curve, with preview options, and can also generate a vertical-offset solid volume for boolean operations.  
   [▶ Demo](#roadrampsimple-demo)
 
-  - **scatterblocks.py** — Scatters a block instance or geometry across a surface or mesh with options for density, random rotation, scaling, and alignment to surface/mesh normals.  
+- **scatterblocks.py** — Scatters a block instance or geometry across a surface or mesh with options for density, random rotation, scaling, and alignment to surface/mesh normals.  
   [▶ Demo](#scatterblocks-demo)
+
+- **aligntextobjects.py** — Aligns selected Rhino text objects to a chosen reference text object along either the X or Y axis.  
+  [▶ Demo](#aligntextobjects-demo)
 
 ---
 
@@ -39,3 +42,6 @@ Scripts are stored in the `scripts/` subfolder:
 
 ### scatterblocks demo
 ![scatterblocks demo](../assets/scatterblocks.gif)
+
+### aligntextobjects demo
+![aligntextobjects demo](../assets/aligntextobjects.gif)
